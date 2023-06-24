@@ -1,6 +1,8 @@
 #landing {
-    background-image: url(image/pexels-tetyana-kovyrina-16944644.jpg)
-    
+    background-image: url(image/pexels-tetyana-kovyrina-16944644.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .img-fluid:hover {
