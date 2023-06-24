@@ -1,74 +1,16 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
-body {
-    background-image: url(image/tiles.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
 #landing {
-    background-image: url(image/pexels-tetyana-kovyrina-16944644.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    color: yellow;
+    background-image: url(image/pexels-tetyana-kovyrina-16944644.jpg)
+    
 }
 
 .img-fluid:hover {
-    transform: scale(1.2);
-    transition: transform 0.6s ease-in-out;
-}
-
-#projects {
-    background-image: url(image/pexels-tetyana-kovyrina-16944644.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-#tools {
-    background-image: url(image/pexels-tetyana-kovyrina-16944644.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    color: blue;
-}
-
-.m-1:hover {
     transform: scale(1.5);
     transition: transform 0.2s ease-in-out;
 }
+
 .my-button {
-    width: 200px;
+    width: 100px;
     height: 50px;
     border-radius: 50px;
     background-color: white;
-    margin: 20px;    
-}
-.my-button:hover {
-    background-color: gray;
-    color: white;
-}
-
-
-#contact {
-    background-image: url(image/pexels-tetyana-kovyrina-16944644.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    color: blue;
-}
-.btn {
-    color: dark;
-    background-color: white;
-}
-
-.btn:hover {
-    background-color: grey;
-    color: white;
-}
+    margin: 20px; 
